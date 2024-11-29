@@ -1,0 +1,4 @@
+train/
+train_images_spectrogram/
+*.zip
+train_features_mfcc.pkl
