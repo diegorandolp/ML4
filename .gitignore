@@ -1,5 +1,6 @@
 train/
-train_images_spectrogram/
+train_images_spectrogram/noWhale/
 *.zip
 train_features_mfcc.pkl
 test_images_spectrogram/
+test/
